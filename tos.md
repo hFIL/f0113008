@@ -1,4 +1,4 @@
-TEMPLATE - Filecoin Node Operator Terms of Service
+Filecoin Node Operator Terms of Service
 
 
 # Terms of Service
